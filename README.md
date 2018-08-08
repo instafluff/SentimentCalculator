@@ -3,8 +3,7 @@ Positive / Negative SENTIENT SENTIMENT CALCULATOR FROM THE MATRIX - Parse webpag
 We built this together live on Twitch!
 
 
-> "i feel like that would make a great poster, Iv fallen and i can't get up, with a turtle on its back"
-> - jellydance
+> "i feel like that would make a great poster, Iv fallen and i can't get up, with a turtle on its back" - jellydance
 
 ## Instafluff ##
 > *Come and hang out with us at the Comfiest Corner on Twitch!*
