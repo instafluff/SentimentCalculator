@@ -1,0 +1,7 @@
+{% extends 'layout.twig' %}
+
+{% block body %}
+  <h1>{{title}}</h1>
+  <h2>Score: {{ score * 100 }}% {% if score < 0.5 %} Negative{% else %}Positive{% endif %}</h2>
+  <p>{{ text }}</p>
+{% endblock %}
